@@ -2,4 +2,4 @@
 Just another repository
 
 Hello fellow humanoids,
-Zig zay lines are my favourite kind of lines.
+Zig zag lines are my favourite kind of lines.
